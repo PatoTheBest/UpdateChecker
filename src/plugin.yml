@@ -1,0 +1,5 @@
+name: UpdateChecker
+author: PatoTheBest
+main: org.pato.updatechecker.UpdateChecker
+version: 2.0
+description: UpdateChecker
